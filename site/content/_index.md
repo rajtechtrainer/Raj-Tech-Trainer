@@ -1,7 +1,7 @@
 ---
-title: Technical blog with a difference
-subtitle: Start learning....
-image: /img/home-jumbotron.jpg
+title: Raj Tech-Trainer
+subtitle: Start Learning
+image: img/online-5360755_1920.png
 blurb:
   heading: Why Raj Tech-Trainer
   text: This is for everyone who wants to learn new things from an experienced
